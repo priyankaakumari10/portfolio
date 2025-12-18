@@ -31,7 +31,7 @@ export default function Hero({ scrollToSection }: HeroProps) {
       y: 0,
       transition: {
         duration: shouldReduceMotion ? 0 : 0.6,
-        ease: "easeOut",
+        ease: [0.6, -0.05, 0.01, 0.99] as const,
       },
     },
   };
