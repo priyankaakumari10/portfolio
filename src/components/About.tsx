@@ -30,7 +30,7 @@ export default function About() {
           className="prose prose-lg max-w-none text-gray-700 dark:text-gray-300 leading-relaxed"
         >
           <p className="text-lg mb-4">
-            I am a Frontend Developer with 1.4+ years of professional experience at Techvins
+            I am a Frontend Developer with 2+ years of professional experience at Techvins
             Software Pvt. Ltd, specializing in building scalable web applications and mobile apps.
             I have a strong foundation in React.js, Next.js, and React Native, with expertise in
             TypeScript, Redux Toolkit, and modern CSS frameworks.
